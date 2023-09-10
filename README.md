@@ -1,2 +1,2 @@
 # trharita.github.io
-Güncel Türkiye Haritasına direk yönlendiren site
+Güncel Türkiye Haritasına direk yönlendiren sitedir. Siteyi istediğiniz zaman kullanabilirsiniz.
