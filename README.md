@@ -8,9 +8,9 @@ Güncel Türkiye Haritasına direk yönlendiren sitedir. Siteyi istediğiniz zam
 ## Başka Adreslerimiz
 Kısa adresler üzerinden de sitemizi kullanabilirsiniz. İşte diğer adreslerimiz;
 
-* [trharita.netlify.app](https//trharita.netlify.app/)
+* [trharita.netlify.app](https://trharita.netlify.app/)
 * [cografi.netlify.app](https://cografi.netlify.app/)
-* [3](https://example.netlify.app/)
+* [cografi-harita.netlify.app](https://cografi-harita.netlify.app/)
 
 
 
